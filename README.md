@@ -1,1 +1,1 @@
-# Scientific_journal
+# Scientific_journal_web
